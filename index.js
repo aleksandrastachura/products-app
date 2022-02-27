@@ -1,1 +1,1 @@
-console.log("Troche szajsu") 
+console("Troche smiecia") 
